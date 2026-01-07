@@ -85,7 +85,7 @@ Design and comparison of different control strategies for an **active suspension
 
 ## 👤 Author
 
-**Emanuela Varone** - P38000284
+**Emanuela Varone** - 
 
 **Course**: Complements of Automatic Controls  
 **Institution**: Università degli Studi di Napoli Federico II  
